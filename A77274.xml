@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for the incouragement and promoting of religion and learning in the foreign plantations and to induce such of the clergy of this kingdom, as are persons of sobriety and abilities, to accept of a mission into those parts.</title>
+            <author>Bray, Thomas, 1658-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696-1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77274</idno>
+            <idno type="STC">Wing B4296aA</idno>
+            <idno type="STC">ESTC R231814</idno>
+            <idno type="EEBO-CITATION">99897621</idno>
+            <idno type="PROQUEST">99897621</idno>
+            <idno type="VID">137241</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77274)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137241)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2509:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for the incouragement and promoting of religion and learning in the foreign plantations and to induce such of the clergy of this kingdom, as are persons of sobriety and abilities, to accept of a mission into those parts.</title>
+                  <author>Bray, Thomas, 1658-1730.</author>
+                  <author>Lawrence, Thomas, Sir, b. ca. 1645. Present state of the Protestant religion in Mary-land.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Thomas Bray. Cf. NUC pre-1956.</note>
+                  <note>With 5 bishops' signatures, p. 2.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>"The present state of the Protestant religion in Mary-land" (p. 3-4) is written by Thomas Lawrence. Cf. NUC pre-1956.</note>
+                  <note>Formerly Wing B4296A.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  United States --  Early works to 1800.</term>
+               <term>Church of England --  Missions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:137241:1" rendition="simple:additions"/>
+            <head>
+               <hi>PROPOSALS</hi> For the Incouragement and Promoting of Religion and Learning in the Foreign Plantations; And to Induce ſuch of the Clergy of this Kingdom, as are Perſons of Sobriety and Abilities, to accept of a Miſſion into thoſe Parts.</head>
+            <p>WHEREAS the Propagation of the Chriſtian Faith, and the Increaſe of Di<g ref="char:EOLhyphen"/>vine Knowledge, amongſt all ſorts of Perſons in His Majeſty's Foreign Plantations, are the Wiſhes, Deſires, and Prayers, of all Pious and Serious Chriſtians, and ſuch as are zealous of God's Glory, and the Salvation of Mens Souls. AND WHEREAS that Bleſſed Work, next under God, does principally depend upon the Abilities of the Clergy in thoſe Parts, the Exemplarineſs of their Lives, and their Induſtry in Teaching others; WHEREAS ALSO the Clergy, that are already in the Plantations, as well as thoſe who are to be ſent thither, cannot (Humanly ſpeaking) be ſo capable of Informing themſelves, and of Inſtructing others in the deſign of Chriſtianity, in the Nature of the Covenant of Grace, in the Meaning and Importance of the Articles of our moſt Holy Faith, and in the Nature and Extent of all Chriſtian Duties, without the Aſſiſtance of ſome good Commentators upon the Holy Scriptures; and one, at leaſt, or more of thoſe Authors, who have beſt treated upon each, and every of thoſe Points. WHEREAS ALSO for the ſupply of that Want, Men of Parts and addicted to Study, will hardly be induced to leave the Expectations they may have of better Encouragement and Improvement in their Native Country, to go to remote Parts and Climates leſs agreeable, without ſuch Advantages, as will over-balance all Conſiderations inclining them to ſtay at home; and, eſpecially, not without a competent Proviſion of ſuch Books, as are neceſſary for their Studies in thoſe Places where they are to ſerve: Few of them that go over from hence, being able to furniſh themſelves with ſo many Books as they ſhall need. AND LASTLY, WHEREAS In<g ref="char:EOLhyphen"/>ſufficiency and Scandal in the Clergy of thoſe places, in all probability, would be moſt ſucceſsfully prevented, both in this and future Ages, ſhould every Parochial Miniſter in the Plantations have a ſufficient Library of well-choſen Books, of all thoſe kinds before-mentioned, in which he might ſpend his time to his own Satisfaction, and with Improvement and Profit to himſelf and others.</p>
+            <p>TO PROMOTE THEREFORE ſo Bleſſed and Noble an End, as the propagation of Chriſtian Knowledge in thoſe Parts; and as well to encourage thoſe who are there already employed in the Miniſtry, as alſo to invite other able Miniſters over, and to furniſh both, with proper Means for accompliſhing ſo good a Work. IT IS HUMBLY offered to all that are hearty Well-wiſhers to the Souls of Men, and the Honour of their Saviour, to conſider, and as they ſhall ſee Cauſe to favour theſe Propoſals following.</p>
+            <list>
+               <item>1. THAT the Lord Biſhop of <hi>London</hi> be pleas'd to make a Catalogue of what particular Books his Lordſhip ſhall judge moſt immediately and neceſſarily Uſeful, to make up a ſufficient Library to a Parochial Miniſter in any Plantation, wherewith he may be ſufficiently enabled both to Inform himſelf, and to Inſtruct others, in all the Neceſſary and Eſſential parts of Chriſtianity.</item>
+               <item>2. THAT ſo many of ſuch Libraries be ſent by the Lord Biſhop of <hi>London,</hi> by the hands of ſuch as his Lordſhip ſhall Commiſſion for that purpoſe, to be Appropriated and Affixed, one to each Pariſh in the Foreign Plantations, particularly thoſe of <hi>Mary-Land</hi> and <hi>Virginia;</hi> and farther as the Fund to be raiſed ſhall enable.</item>
+               <item>3. THAT every Parochial Library ſhall be affixed in a decent and large Room of the. Parſonage-Houſe of ſuch Pariſh; there to remain to the ſole Uſe of the Miniſter thereof for the time being, unto all future Generations, and to be as UNALLIENABLE as any other the Rights and Dues of the Church, which are Aſcertained by Law.</item>
+               <pb n="2" facs="tcp:137241:2"/>
+               <item>4. THAT in order to the Preſervation of every ſuch Library to ſucceeding Ages without Loſs, as far as can be Humanly provided in any thing of that kind, there be made an exact Ca<g ref="char:EOLhyphen"/>talogne of the Books belonging to the Library of each Pariſh; and that every ſuch Catalogue be fairly written in four Books of Vellum provided for that purpoſe: The firſt whereof to be left with the Lord Biſhop of <hi>London</hi> for the time being; a ſecond with his <hi>Commiſſary,</hi> or ſome chief Clergy-man in every of thoſe Plantations where ſuch Libraries are provided; and a third to remain in the reſpective Libraries themſelves; and a fourth to be depoſited in the <hi>Veſtry</hi> of each of the ſaid Pariſhes.</item>
+               <item>5. THAT the <hi>COMMISSARY</hi> be obliged, at leaſt once in three Years, Perſonally to make a <hi>Parochial Viſitation;</hi> And then, beſides the Charge of his Duty in other reſpects, that it be Incumbent alſo upon him, particularly to Inſpect the <hi>Parochial Libraries,</hi> and to ſee that none of the Books be Imbezell'd or Loſt: And that the Church-Wardens of each Pariſh be alſo obliged, every Year, before the Viſitation, to inform themſelves in what Condition the ſaid Books are, and to Preſent accordingly at the Viſitation.</item>
+               <item>6. THAT for further Security to preſerve them from Loſs and Imbezelment, and that they may be known where-ever they are found, in every Book; on the one ſide of the Cover, ſhall be Letter'd theſe Words, SUB. AUSPICIIS WILLIELMI III. on the other ſide the Name of the Pariſh to which theſe Books do belong: EX. GR. E. BIBLIOTHECA DE MARY-TOWN: E. BIBLIOTHECA DE JAMES-TOWN, <hi>&amp;c.</hi>
+               </item>
+               <item>7. THAT the Miniſters of each Pariſh, their Heirs and Adminiſtrators, may be obliged, by Virtue of an Act of Aſſembly provided and made for that purpoſe, to make good what Books ſhall be Imbezelled or Loſt by his fault.</item>
+            </list>
+            <div type="section">
+               <head>
+                  <hi>MEANS</hi> of Obtaining ſuch Parochial Libraries.</head>
+               <p n="1">1. THat Application be made to the Nobility, Clergy, and Gentry, fortheir Charitable Contributions to ſo Pious a Work; and eſpecially that the Merchants and Tra<g ref="char:EOLhyphen"/>ders to the Foreign Plantations be earneſtly call'd upon, as Perſons principally concern'd, to encourage this Deſign: It being moſt reaſonable to expect, that in Gratitude to God, and the Inhabitants of thoſe Plantations, the <hi>more plentifully they have reaped of their Temporal Things, the more liberally they ſhould ſow to them in Spiritual Things.</hi>
+               </p>
+               <p n="2">2. That Application be alſo made to ſuch Learned Authors as are now living, that they would beſtow ſome of their own Books, which ſhall be judged uſeful to the Purpoſes aforeſaid.</p>
+               <p n="3">3. That, for the General Satisfaction of thoſe who have advanced either in Books or Money to ſo Pious a Deſign, a full Account ſhall be publiſhed what Books have been given, what Summs have been obtained, and how the ſame have been laid out to the Purpoſes aforeſaid.</p>
+               <p>Laſtly, In Gratitude to the Principal Benefactors towards this Pious Deſign, all thoſe who ſhall Contribute any thing thereunto, ſhall have their Names and reſpective Summs; And the Authors ſhall have the number of Books given by 'em, tranſmitted to Poſterity, by being Regiſtred in a Book kept for that purpoſe in each of the Libraries.</p>
+               <p>We do look upon this Deſign, as what will very much tend to Propagate Chriſtian Knowledge in the <hi>Indies,</hi> being it will, in all likelihood, invite ſome of the more Studious and Vertuous Perſons out of the <g ref="char:V">Ʋ</g>niverſities, to undertake the Miniſtry in thoſe Parts, and will be a means of rendring 'em uſeful when they are there: And therefore as we ſhall contribute chearfully towards Promo<g ref="char:EOLhyphen"/>ting of theſe Parochial Libraries, ſo we hope that many Pious Perſons will be found, who, out of Love to Religion and Learning, will alſo contribute thereunto.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Tho.</hi> Cantuar.</item>
+                        <item>
+                           <hi>Jo.</hi> Ebor.</item>
+                        <item>
+                           <hi>H.</hi> Lond.</item>
+                        <item>W. <hi>Cov.</hi> and <hi>Litch.</hi>
+                        </item>
+                        <item>
+                           <hi>J.</hi> Norwich.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="3" facs="tcp:137241:2"/>
+            <head>THE PRESENT STATE OF The Proteſtant Religion IN MARY-LAND.</head>
+            <head type="sub">Stands Thus.</head>
+            <p>IN the Year, 1691. His Majeſty having graciouſly thought fit to take the Government of <hi>MARY-LAND</hi> into his own hands, and the Province into his Immediate Care: In <hi>May,</hi> 1692. an Act of Aſſembly paſs'd for the Eſtabliſhment of the Proteſtant Religion there, and for dividing of the <hi>TEN-CO<g ref="char:V">Ʋ</g>NTIES</hi> thereof into Five and twenty Pariſhes each of which, one with another, are endowed with an Yearly Income of nigh Twenty thouſand Pounds of Tabaco, to be raiſed perpetually by a Yearly Aſſeſsment of 40 Pound <hi>per</hi> Pole, upon all the taxable Perſons in the Country; the Profits of which Tabaco, till ſuch time as a ſufficient Supply of Miniſters ſhall be ſent, (<hi>Viz.</hi> All which will Ariſe, over and above what ſhall go for the Maintenance of Six Divines ſent thither already with the preſent Go<g ref="char:EOLhyphen"/>vernor, by my LORD BISHOP of <hi>LONDON</hi> his pious Care, there being but three before in the Country) are Appointed for the Building of Churches in every Pariſh. But the Execution of that Act hath been in a manner wholly neglected, till it pleas'd His MAJESTY to confer the Government on the moſt Worthy and Excellent Perſon, <hi>FRANCIS NICHOLSON,</hi> 
+               <abbr>Eſq</abbr> who ſince his Arrival in <hi>Aug.</hi> 1694. with an in<g ref="char:EOLhyphen"/>defatigable Induſtry and Zeal to promote his MAJESTY's Honour, the Int'reſt of the <hi>Proteſtant Religion,</hi> and the Good of the whole Province, hath Revived and Reinforc'd the ſaid Act, by another Additional one, for the Increaſe and Maintenance of Religion; hath Collected the Arrears, and is now Building a Fine Church at <hi>ANNOPOLIS,</hi> in <hi>AR<g ref="char:V">Ʋ</g>NDEL</hi> County, and by <hi>Midſummer</hi> next will (beſides four or five which were be<g ref="char:EOLhyphen"/>gun before) have nine or ten Churches in very good forwardneſs, with ma many Parſonage-Houſes; to the Building of each of which, as of all the reſt, His EXCELLENCY hath given 5 <hi>l.</hi> Sterling, and His Majeſty's SECRETARY ten thouſand Pounds of Tabaco to ten of the ſaid Houſes, <hi>viz.</hi> one in each County.</p>
+            <p>And that a perpetual Succeſſion of <hi>Proteſtant</hi> Divines of the CHURCH OF <hi>ENGLAND,</hi> may be provided for the Propagation of the True Chriſtian Religion in the ſaid Colony, His EXCELLENCY hath by the Conſent of the Council and Burgeſſes in Aſſembly, promo<g ref="char:EOLhyphen"/>ted a Law (now humbly offered to His MAJESTY, together with two Acts for Eſta<g ref="char:EOLhyphen"/>bliſhing the <hi>Proteſtant Religion</hi> according to the <hi>CH<g ref="char:V">Ʋ</g>RCH OF ENGLAND,</hi> for His Royal Confirmation) at his EXCLLENCY's Charge, veſting a Power er in certain Truſtees for Erecting one Free-School in each County, under the Patronage of his Grace the LORD ARCH-BISHOP of <hi>CANTERB<g ref="char:V">Ʋ</g>RY:</hi> One of which is already begun at <hi>ANNOPOLIS,</hi> towards the Building of which, his EXCELLENCY hath given 50 <hi>l.</hi> Ster<g ref="char:EOLhyphen"/>ling, the Secretary 5000, the Council 15000, and the Burgeſſes 45000 Pounds of Tobacco. And it is to be Endowed with 100 <hi>l.</hi> Sterling <hi>per Annum</hi> for the Maintenance of one Maſter, and two Uſhers, to whom his EXCELLENCY will at preſent allow 25 <hi>l.</hi> Sterling <hi>per Annum,</hi> during his Government, and the Secretary 2000 Pounds of Tobacco, ſo long as he continues in
+<pb n="4" facs="tcp:137241:3" rendition="simple:additions"/>his Office, for inſtructing the Youth of the ſaid Province in ARITHMETICK, NAVI<g ref="char:EOLhyphen"/>GATION, and all USEFUL LEARNING; but chiefly for the fitting ſuch as are diſpos'd to Study DIVINITY, to be further Educated at His Majeſties <hi>COLLEGE ROYAL</hi> in <hi>VIRGINIA,</hi> in order, upon their Return, to be Ordained by the Lord Biſhop of <hi>LON<g ref="char:EOLhyphen"/>DON</hi>'s SUFFRAGAN Reſiding in the Province, both for that purpoſe, and to ſuperviſe the Lives of the Clergy thereof; for whoſe Support alſo, at the Requeſt and Recom<g ref="char:EOLhyphen"/>mendation of the Aſſembly, his EXCELLENCY hath ſettled a fair and competent Main<g ref="char:EOLhyphen"/>tenance.</p>
+            <p>The Perſon now Deputed by the Lord Biſhop of <hi>LONDON,</hi> to be his COMMISSARY in <hi>MARY-LAND</hi> for the propagation of our moſt-Holy, Religion amongſt the Infi<g ref="char:EOLhyphen"/>dels, for the Inducement of Sober and Serious Young Divines, to go to the Foreign Plantati<g ref="char:EOLhyphen"/>ons, and for the better qualifying them for ſo Noble and Chriſtian an Employment, is now wholly buſied in Collecting of PAROCHIAL LIBRARIES of Choice and Uſeful Books, for the perpetual Uſe of ſuch of the Clergy, who ſhall now undertake that Voyage, and for all thoſe who ſhall ſucceed them. AND certainly a more ſuitable Encouragement to Men of good parts and Inclinations, to go upon ſo Bleſſed a Miſſion, could not be thought of: For as it is Books alone which will encourage the moſt Studious, Vertuous, and conſequently the moſt Uſeful Perſons to go over; ſo it is an encouragement that is in a manner neceſſary to be provi<g ref="char:EOLhyphen"/>ded in the Foreign Plantations; ſince few or none at their firſt going over, are in a Condition to provide themſelves therewith; and when they are there, Books are hardly to be met with by thoſe who ſhall be able to buy them. And yet without a Competent Proviſion of ſe<g ref="char:EOLhyphen"/>veral Uſeful and Neceſſary Books, it is morally impoſſible that any ſhould be enabl'd to inſtruct their People.</p>
+            <p>And now that ſuch Excellent Works are Joyntly begun, and carrying one What a happy Conjuncture is this (which perhaps may not again recur) for Perſons who are Piouſly diſpos'd, to give their helping hand towards ſuch Bleſſed and Glorious Deſigns, as the propagating of true Chriſtian Knowledge and Practice in places formenly ſo much Uncultivated therewith. Sure if he who <hi>Converteth a</hi> ſingle <hi>Sinner from the Error of his Ways, ſhall hide a multitude of Sins,</hi> what abundant matter for comfortable Reflections upon a Death-Bed, ſhall that Perſon lay up, who ſhall contribute towards providing of the moſt proper and Genuine Means, next to the Divinely Inſpired Writings, of Converting many poor Souls, not only in this, but in all future Generations, even ſo long as the Son and Moon endureth.</p>
+            <closer>
+               <signed>
+                  <hi>Thomas Laurence</hi> Secretary of <hi>Mary-Land.</hi>
+               </signed>
+            </closer>
+            <closer>Benedicat Deus Operi &amp; faventibus.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
